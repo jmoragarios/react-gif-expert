@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Demo
+
+[Go to the demo](https://jmoragarios.github.io/react-gif-expert/)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -69,6 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Demo
-
-[Go to the demo](https://jmoragarios.github.io/react-gif-expert/)
