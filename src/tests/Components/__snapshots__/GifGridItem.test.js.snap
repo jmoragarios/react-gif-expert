@@ -4,7 +4,12 @@ exports[`Tests in <GifGriditem /> should show the component successfuly 1`] = `
 <div
   className="card animate__animated animate__fadeIn"
 >
-  <img />
-  <p />
+  <img
+    alt="dummy title"
+    src="http://localhost/algo.png"
+  />
+  <p>
+    dummy title
+  </p>
 </div>
 `;
