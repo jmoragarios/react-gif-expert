@@ -1,4 +1,4 @@
-import { getGifs } from '../../../helpers/getGifs';
+import { getGifs } from '../../helpers/getGifs';
 
 describe('Tests in getGifs.js helper', () => {
     
