@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <AddCategory/> should show the component successfully 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    onChange={[Function]}
+    placeholder="Search Gifs"
+    type="text"
+    value=""
+  />
+</form>
+`;
